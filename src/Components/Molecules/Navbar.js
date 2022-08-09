@@ -7,7 +7,7 @@ export default function Navbar() {
 			<span className='absolute text-xl top-10 font-semibold'>
 				Dashboard
 			</span>
-			<Link name='Geographical Map' link='gMap' />
+			<Link name='Geographical Map' link='' />
 			<Link name='Category Distribution' link='tMap' />
 			<Link name='Question List' link='qList' />
 		</div>
